@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>Amresh Course</h1>
+    <h1>Amresh Demo Course</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
